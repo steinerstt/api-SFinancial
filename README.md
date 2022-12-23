@@ -4,8 +4,8 @@
 
 <br>
 
-![api-sfinancial](https://i.imgur.com/uQADwHT.png)
-> Api desenvolvida para a SFinancial, uma aplicação Front-end que tem como intuíto ser um gerenciador financeiro. 
+![api-sfinancial](https://github.com/steinerstt/screenshots-projects/blob/main/api-SFinancial/der.png?raw=true)
+> Api desenvolvida para a SFinancial, uma aplicação Front-end que tem como intuíto de ser um gerenciador financeiro. 
 
 <br>
 
